@@ -17,24 +17,19 @@ We recommend Anaconda or Miniconda, the latter being a minimal (but sufficient) 
 ### Quickstart
 After the installation of Anaconda, open a terminal (on Windows Anaconda Prompt) and create a new environment by typing:
 
-```
-conda create -n pollen python==3.7
-conda activate pollen
-```
-
 
 ##### Clone repository and install requirements
 ```
 git clone https://github.com/osaukh/pollenpub
 cd code/
-conda install -f environment.yml
+conda env create -f environment.yml
 ```
 
 Note: The following commands are to be run from the `code/` directory.
 
 ##### Download weights and pollen images
 ```
-python utils/download.py weights.zip data.zip
+python utils/download.py -f weights.zip data.zip
 ```
 
 ##### Run the test
