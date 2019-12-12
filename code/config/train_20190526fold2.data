@@ -1,0 +1,5 @@
+classes= 1
+train=../data/pollen_20190526/fold2_train.txt
+valid=../data/pollen_20190526/fold2_test.txt
+base_dir=../data/pollen_20190526/
+names=../data/pollen_20190526/classes.names

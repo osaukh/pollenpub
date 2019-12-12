@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.DS_Store
+build
+.git
+*.egg-info
+dist
+output
+data
+weights
+data.zip
+weights.zip
+tmp/
+__pycache__
+checkpoints
+.vscode/
+
