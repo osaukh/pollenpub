@@ -9,8 +9,8 @@ The paper's results can be reproduced with the following guideline.
 
 ### Requirements
 To use the code, you require the following tools as prerequisites:
-    Python 3.7
-    git
+* Python 3.7
+* git
     
 We recommend Anaconda or Miniconda, the latter being a minimal (but sufficient) version of the Anaconda distribution. The following instructions will be based on Miniconda. If you use another Python environment, the installation routine must be adapted.
 
