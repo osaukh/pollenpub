@@ -1,4 +1,4 @@
-# Automated and Continuous Pollen Detection with an Affordable Technology
+# Automated Pollen Detection with an Affordable Technology
 This repository contains the code and hardware design files accompanying the paper [tbd](). The data can be found [here](https://zenodo.org/record/3572653) (download instructions provided below).
 
 ## Hardware designs
