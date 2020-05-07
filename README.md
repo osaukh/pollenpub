@@ -90,6 +90,7 @@ _Joseph Redmon, Ali Farhadi_ <br>
 ```
 
 ### Bibtex citation
+```
 @conference{b6bd2a6c85af4fdfa9f72fe3d61bba91,
 title = "Automated Pollen Detection with an Affordable Technology",
 author = "Nam, {Cao Nguyen Khoa} and Matthias Meyer and Lothar Thiele and Olga Saukh",
@@ -100,3 +101,4 @@ language = "English",
 note = "International Conference on Embedded Wireless Systems and Networks, EWSN ; Conference date: 17-02-2020 Through 19-02-2020",
 url = "https://ewsn2020.conf.citi-lab.fr/",
 }
+```
