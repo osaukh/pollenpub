@@ -5,12 +5,12 @@ This repository contains the code and hardware design files accompanying the pap
 ## Bibtex citation
 ```
 @inproceedings{namcao2020pollen,
-	title = {Automated Pollen Detection with an Affordable Technology},
-	author = {Nam Cao and Matthias Meyer and Lothar Thiele and Olga Saukh},
-	booktitle = {Proceedings of the International Conference on Embedded Wireless Systems and Networks (EWSN)},
-	pages={108–119}
-	month = {2},	
-	year = {2020},
+  title = {Automated Pollen Detection with an Affordable Technology},
+  author = {Nam Cao and Matthias Meyer and Lothar Thiele and Olga Saukh},
+  booktitle = {Proceedings of the International Conference on Embedded Wireless Systems and Networks (EWSN)},
+  pages={108–119}
+  month = {2},	
+  year = {2020},
 }
 ```
 
