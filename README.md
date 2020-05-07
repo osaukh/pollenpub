@@ -1,7 +1,5 @@
 # Automated Pollen Detection with an Affordable Technology
-This repository contains the code and hardware design files accompanying the paper [Automated and Continuous Pollen Detection with an Affordable Technology](http://www.ewsn.org/file-repository/ewsn2020/108_119_cao.pdf?attredirects=0&d=1). The data can be found [here](https://zenodo.org/record/3572653) (download instructions provided below).
-
-### Bibtex citation
+## Bibtex citation
 ```
 @inproceedings{namcao2020pollen,
 	title = {Automated Pollen Detection with an Affordable Technology},
@@ -12,6 +10,10 @@ This repository contains the code and hardware design files accompanying the pap
 	year = {2020},
 }
 ```
+
+This repository contains the code and hardware design files accompanying the paper [Automated and Continuous Pollen Detection with an Affordable Technology](http://www.ewsn.org/file-repository/ewsn2020/108_119_cao.pdf?attredirects=0&d=1). The data can be found [here](https://zenodo.org/record/3572653) (download instructions provided below).
+
+
 
 ## Hardware designs
 The [./hwdesign/](./hwdesign/) folder contains the design files for the automated pollen trap. For more information please refer to the paper.
