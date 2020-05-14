@@ -48,7 +48,7 @@ if __name__ == "__main__":
     parser.add_argument("--output_folder", type=str, default="output", help="path to dataset")
     parser.add_argument("--model_def", type=str, default="config/yolov3-pollen.cfg", help="path to model definition file")
     parser.add_argument("--weights_path", type=str, default="../weights/pollen_20190526.pth", help="path to weights file")
-    parser.add_argument("--class_path", type=str, default="config/pollen/classes.names ", help="path to class label file")
+    parser.add_argument("--class_path", type=str, default="config/pollen/classes.names", help="path to class label file")
     parser.add_argument("--conf_thres", type=float, default=0.8, help="object confidence threshold")
     parser.add_argument("--nms_thres", type=float, default=0.4, help="iou thresshold for non-maximum suppression")
     parser.add_argument("--batch_size", type=int, default=16, help="size of the batches")
