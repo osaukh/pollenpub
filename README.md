@@ -27,6 +27,8 @@ To use the code, you require the following tools as prerequisites:
     
 We recommend Anaconda or Miniconda, the latter being a minimal (but sufficient) version of the Anaconda distribution. The following instructions will be based on Miniconda. If you use another Python environment, the installation routine must be adapted.
 
+Note: The code was only tested on Linux. Using Windows might lead to problems during installation of packages. If you get it to run on Windows please create a pull request with instructions/required changes.
+
 ### Quickstart
 After the installation of Anaconda, open a terminal (on Windows Anaconda Prompt) and create a new environment by typing:
 
