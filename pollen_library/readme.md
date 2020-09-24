@@ -18,7 +18,7 @@ This dataset contains microscopic images and videos of pollen gathered between F
 	- Sequoiadendron Giganteum
 	- Taxus Baccata
 	
-- Pollen video library `images_16_types.zip`
+- Pollen video library `pollen_video_library.zip`
 	- Each type of pollen is in a separate folder, there may be multiple videos per type.
 	- In each pollen folder, we included images cropped from the videos by YOLO object detection algorithm trained on a subset of pollen images as described in [1].
 
