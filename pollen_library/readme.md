@@ -24,7 +24,7 @@ This dataset contains microscopic images and videos of pollen gathered between F
 
 - Field data over 3 days are gathered in Graz in spring 2020. `pollen_field_data.zip`
 
-- Sample code to load the data and visualize the images is in `plot_pollen_sample.py`. Download and extract the file images_16_types.zip in the same folder as plot_pollen_sample.py to run the example.
+- Sample code to load the data and visualize the images is in `plot_pollen_sample.py`. Download and extract the file 1images_16_types.zip1 in the same folder as `plot_pollen_sample.py` to run the example.
 
 
 # Dependecies:
