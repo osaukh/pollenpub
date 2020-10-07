@@ -21,7 +21,7 @@ This dataset contains microscopic images and videos of pollen gathered between F
 - Pollen video library `pollen_video_library.zip`
 	- Each type of pollen is in a separate folder, there may be multiple videos per type.
 	- In each pollen folder, we included images cropped from the videos by YOLO object detection algorithm trained on a subset of pollen images as described in [1].  
-	- Cropped file name structure [Video file name]_ [image index of a grain]_ [total grain detected(in that video)] _[Frame index in video]
+	- Cropped file name structure [Video file name]_ [Image index of a grain]_ [Total grain detected(in that video)] _[Frame index in video]
 		- Example, if a grain has 5 images, the file name would be:\
 			Anthoxanthum-grass-20200530-122652_0000000_001_00001 \
 			Anthoxanthum-grass-20200530-122652_0000000_002_00002 \
