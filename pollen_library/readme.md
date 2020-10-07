@@ -23,10 +23,10 @@ This dataset contains microscopic images and videos of pollen gathered between F
 	- In each pollen folder, we included images cropped from the videos by YOLO object detection algorithm trained on a subset of pollen images as described in [1].  
 	- Cropped file name structure [Video file name]_ [image index of a grain]_ [total grain detected(in that video)] _[Frame index in video]
 		- Example, if a grain has 5 images, the file name would be:
-		Anthoxanthum-grass-20200530-122652_0000000_001_00001
-		Anthoxanthum-grass-20200530-122652_0000000_002_00002
-		...
-		Anthoxanthum-grass-20200530-122652_0000000_005_00005
+			Anthoxanthum-grass-20200530-122652_0000000_001_00001
+			Anthoxanthum-grass-20200530-122652_0000000_002_00002
+			...
+			Anthoxanthum-grass-20200530-122652_0000000_005_00005
 
 - Field data over 3 days are gathered in Graz in spring 2020. `pollen_field_data.zip`
 
