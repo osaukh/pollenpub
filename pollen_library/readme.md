@@ -1,5 +1,5 @@
 # Dataset description
-Dataset can be downloaded from https://zenodo.org/record/4048041#.X4r4DNAzaUk
+Dataset can be downloaded from `https://zenodo.org/record/4048041#.X4r4DNAzaUk`
 This dataset contains microscopic images and videos of pollen gathered between Feb. and Aug. 2020 in Graz, Austria.
 - Pollen images of 16 types: `images_16_types.zip` 
 	- Acer Pseudoplatanus
