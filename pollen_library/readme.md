@@ -2,7 +2,7 @@
 Dataset can be downloaded from [Zenodo](https://zenodo.org/record/4120033)
 
 This dataset contains microscopic images and videos of pollen gathered between Feb. and Aug. 2020 in Graz, Austria.
-- Pollen images of 16 types: `images_16_types.zip` 
+- Pollen images of 16 types: `...images_16_types.zip` 
 	- Acer Pseudoplatanus
 	- Aesculus Carnea
 	- Alnus
@@ -20,7 +20,7 @@ This dataset contains microscopic images and videos of pollen gathered between F
 	- Sequoiadendron Giganteum
 	- Taxus Baccata
 	
-- Pollen video library `pollen_video_library.zip`
+- Pollen video library `...pollen_video_library.zip`
 	- Each type of pollen is in a separate folder, there may be multiple videos per type.
 	- In each pollen folder, we included images cropped from the videos by YOLO object detection algorithm trained on a subset of pollen images as described in [1].  
 	- Cropped file name structure 
@@ -32,9 +32,9 @@ This dataset contains microscopic images and videos of pollen gathered between F
 			...
 			Anthoxanthum-grass-20200530-122652_0000000_005_00005.jpg
 			```
-- Field data over 3 days are gathered in Graz in spring 2020. `pollen_field_data.zip`
+- Field data over 3 days are gathered in Graz in spring 2020. `...pollen_field_data.zip`
 
-- Sample code to load the data and visualize the images is in `plot_pollen_sample.py`. Download and extract the file `images_16_types.zip` in the same folder as `plot_pollen_sample.py` to run the example.
+- Sample code to load the data and visualize the images is in `...plot_pollen_sample.py`. Download and extract the file `...images_16_types.zip` in the same folder as `...plot_pollen_sample.py` to run the example.
 
 
 # Dependecies:
